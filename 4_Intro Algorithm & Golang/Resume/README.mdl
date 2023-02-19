@@ -1,0 +1,5 @@
+1. ls pertama mempelajari dasar golang
+2. dasar tersebut meliputi definisi golaang sebagai prosedur komputasi terstruktur untuk mencapai tujuan, dimana prosedur tersebut mencakup proses input-proses-output.
+3. kami juga mempelajari bahwa golang juga dapat berbentuk drquential,branching,maupun looping
+4. dalam sesi ini juga berlatih menghitung luas segitiga dalam golang dengan menuliskan var, lalu menginput, dan output dengan printline.
+5. kami juga mengetahui bahwa flowchart memiliki struktur dengan fungsi tersendiri
