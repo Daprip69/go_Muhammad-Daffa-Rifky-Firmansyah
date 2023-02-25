@@ -4,5 +4,5 @@ import fmt
 
 func main(){
 	a = x
-	a%687a
+	a%687as
 	
