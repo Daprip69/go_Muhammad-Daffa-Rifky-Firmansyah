@@ -1,8 +1,7 @@
 package main
+import fm
 
-import fmt
-
-func main(){
+func mai(){
 	a = x
 	a%687as
 	
