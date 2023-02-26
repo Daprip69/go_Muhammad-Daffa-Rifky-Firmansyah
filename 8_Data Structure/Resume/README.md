@@ -1,0 +1,3 @@
+dalam sesi ini kita mempelajari terkait struktur data, dimana kita mempalajari terkait array, slice, mapping, termasuk bagaimana pendeklarasiannya
+arrray adalah jumlah data dalam string suatu code, data dalam array ini dapat dipisah yang mana kitaa sebut dengan slice, yaitu kita memisahkan data-data dalam array
+dari data berbagai array dapat juga kita lakukan mapping,merge array, guna mengorganisir data 
