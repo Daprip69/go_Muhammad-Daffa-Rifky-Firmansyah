@@ -1,0 +1,4 @@
+pada materi ini kita belajar mengenai string,dimana kita dapat melakukan compare,contain,change,dan juga membuat substring
+mirip dengan string,kita dapat membuat struct,dimana data lebih terorganisir dan teratur,lebih mudah dan efisien dibandingkan menuliskan satu satu data
+kita juga belajar mengenai method,dimana dalam method ini kita membuat suatu fungsi yang lebih efisien dibanding fungsi pada umumnya,dikarenakan kita dapat memanggil fungsi dalam method ini tanpa perlu menulis ulang fungsinya
+pointer juga dipelajari,dimana kita dapat memanggil data yang kita tandai,menggunakan & untuk memanggil alamat data dan * untuk valuenya
