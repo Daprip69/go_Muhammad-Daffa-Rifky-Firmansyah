@@ -1,0 +1,27 @@
+//- Kamu memiliki tiga bilangan bulat yang berbeda, x, y dan z, yang memenuhi tiga hubungan berikut:
+//- x + y + z = A
+//- xyz = B
+//- x^2 + y^2 + z^2 = C
+//kamu diminta untuk menulis sebuah program yang memecahkan x, y dan z untuk nilai yang diberikan A, B dan C. (1 ≤ A, B, C ≤ 10000).
+package main
+import (
+	"fmt"
+	"math"
+)
+func SimpleEq(A, B, C int) {
+	for y := 1; y <= 100; y++ {
+		for z := 1; z <= 100; z++ {
+			x := C - int(math.Pow(float64(z), 2)) - int(math.Pow(float64(y), 2))
+			if x+y+z == A && x*y*z == B {
+				fmt.Println(x, y, z)
+				return
+			}
+		}
+
+	}
+	fmt.Println("No solution")
+}
+func main() {
+	SimpleEq(1, 2, 3)
+	SimpleEq(6, 6, 14)
+}
