@@ -1,0 +1,9 @@
+Kode yang bersih adalah aspek penting dari pengembangan perangkat lunak, dan bahasa Go menyediakan fitur yang memudahkan penulisan kode yang bersih, dapat dibaca, dan dapat dipelihara. Kesederhanaan, minimalis, dan penekanan pada keterbacaan Go membuatnya menjadi bahasa yang bagus untuk menulis kode yang bersih.
+
+Go memiliki seperangkat konvensi idiomatis yang mempromosikan kode yang bersih, termasuk penggunaan nama variabel yang singkat dan ringkas, tanda tangan fungsi yang jelas dan sederhana, dan komentar yang menjelaskan maksud dari kode tersebut. Go juga memiliki alat formatter built-in bernama gofmt yang secara otomatis memformat kode sesuai dengan konvensi ini, membuatnya mudah untuk menulis kode yang konsisten dan mudah dibaca.
+
+Sistem tipe Go juga mempromosikan kode yang bersih dengan membuatnya mudah untuk mendefinisikan antarmuka yang merangkum perilaku dan mengabstraksi detail implementasi. Hal ini memungkinkan pemisahan komponen dan mempromosikan desain modular, membuatnya lebih mudah untuk mengubah kode tanpa menimbulkan bug.
+
+Selain itu, model penanganan kesalahan Go mempromosikan kode yang bersih dengan membuatnya mudah untuk menangani kesalahan secara konsisten dan efisien. Go menggunakan nilai error return yang eksplisit, membuatnya mudah untuk menyebarkan error ke tumpukan panggilan dan menanganinya di lokasi terpusat.
+
+Secara keseluruhan, bahasa Go menyediakan fitur yang mempromosikan kode bersih, menjadikannya bahasa yang bagus untuk menulis kode yang dapat dibaca, dipelihara, dan dapat diskalakan. Namun, penting untuk mengikuti praktik terbaik dan mematuhi konvensi bahasa untuk memastikan bahwa kode mudah dibaca, di-debug, dan dipelihara dari waktu ke waktu.
