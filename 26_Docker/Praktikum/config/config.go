@@ -25,7 +25,7 @@ func Init() {
 
 func InitDB() {
 	config := Config{
-		DB_Username: "root",
+		DB_Username: "alta",
 		DB_Password: "root",
 		DB_Port:     "3306",
 		DB_Host:     "localhost",
