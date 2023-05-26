@@ -55,4 +55,7 @@ func TestMultiplication(t *testing.T) {
 	if result != 12 {
 		t.Errorf("Multiplication(3,4) = %f; expected 12", result)
 	}
+func main(){
+	func TestMultiplication(t *testing.T)
+}
 }

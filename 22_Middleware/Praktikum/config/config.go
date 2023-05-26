@@ -26,7 +26,7 @@ func Init() {
 func InitDB() {
 	config := Config{
 		DB_Username: "root",
-		DB_Password: "root",
+		DB_Password: "Kuripan69",
 		DB_Port:     "3306",
 		DB_Host:     "localhost",
 		DB_Name:     "testing_golang",
